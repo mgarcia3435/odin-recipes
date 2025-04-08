@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a website that consists of a main index page with links to a few recipes. The goal of this project is to build HTML skills. It will be revisited in the future to be styled with CSS.
